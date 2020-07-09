@@ -23,13 +23,13 @@
     <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/brunoaugustosilva/brunoaugustosilva/blob/master/assets/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/BrunoAugusto560">
-    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/brunoaugustosilva/brunoaugustosilva/blob/master/Assets/Twitter.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/brunoaugustosilva/brunoaugustosilva/blob/master/assets/Twitter.svg" />
   </a>
   <a href="https://www.instagram.com/bruno_augusto560/">
-    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/brunoaugustosilva/brunoaugustosilva/blob/master/Assets/Instagram.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Instagram" width="24px" src="https://github.com/brunoaugustosilva/brunoaugustosilva/blob/master/assets/Instagram.svg" />
   </a>
   <a href="mailto:brunoaugustosilva8@gmail.com">
-    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/brunoaugustosilva/brunoaugustosilva/blob/master/Assets/Gmail.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/brunoaugustosilva/brunoaugustosilva/blob/master/assets/Gmail.svg" />
   </a>
 <br>
 
