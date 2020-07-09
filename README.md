@@ -1,4 +1,4 @@
-# Bruno Augusto da Silva 
+# Bruno Augusto da Silva
 
 - 🔭 I'm currently working on Liax Tecnologia <br/>
 - 🌱 I'm currently learning React, Vue.js, Node, SQL and Java
@@ -13,16 +13,14 @@
 
 ## Stats
 
-
 ![Shubhamdeep's github stats](https://github-readme-stats.vercel.app/api?username=brunoaugustosilva&show_icons=true&hide_border=true)
-
 
 ## My social networks
 
 <br>
 
   <a href="https://www.linkedin.com/in/bruno-silva-25a824181/">
-    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/brunoaugustosilva/brunoaugustosilva/blob/master/Assets/Linkedin.svg" />
+    <img align="left" alt="Shubhamdeep Jha | Linkedin" width="24px" src="https://github.com/brunoaugustosilva/brunoaugustosilva/blob/master/assets/Linkedin.svg" />
   </a>
   <a href="https://twitter.com/BrunoAugusto560">
     <img align="left" alt="Shubhamdeep Jha | Twitter" width="26px" src="https://github.com/brunoaugustosilva/brunoaugustosilva/blob/master/Assets/Twitter.svg" />
@@ -50,4 +48,5 @@ Here are some ideas to get you started:
 -->
 
 ---
+
 By Bruno
