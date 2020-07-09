@@ -31,6 +31,7 @@
   <a href="mailto:brunoaugustosilva8@gmail.com">
     <img align="left" alt="Shubhamdeep Jha | Gmail" width="26px" src="https://github.com/brunoaugustosilva/brunoaugustosilva/blob/master/Assets/Gmail.svg" />
   </a>
+<br>
 
 <!--
 **brunoaugustosilva/brunoaugustosilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
