@@ -1,15 +1,28 @@
 # Bruno Augusto da Silva
 
-- 🔭 I'm currently working on Liax Tecnologia <br/>
-- 🌱 I'm currently learning React, Vue.js, Node, SQL and Java
+- 🔭 I'm currently working on Liax Tecnologia 👍🏻<br/>
+- 🌱 I'm currently learning <img width="15px" src="https://img.icons8.com/color/48/000000/react-native.png"/> React,
+  <img width="15px" src="https://img.icons8.com/color/48/000000/vue-js.png"/> Vue.js,
+  <img width="15px" src="https://img.icons8.com/color/48/000000/nodejs.png"/> Node, <img width="15px" src="https://img.icons8.com/color/48/000000/sql-database-administrators-group.png"/> SQL and <img width="15px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> Java
 
 <p>
     <em>
-    I am a 2rd Year undergraduate from <a href="http://fatecguaratingueta.edu.br/"><b>Fatec - Faculdade de Tecnologia, Guaratinguetá.</b></a>
-    I enjoy <b>Software Developer, Front-end, Back-end and Web-Design</b>... <b>Spotify</b> and <b>Technology</b>, as well.<br/>
+    I'm a 2nd Year undergraduate from 🧑🏻‍🎓 <a href="http://fatecguaratingueta.edu.br/"><b>Fatec - Faculdade de Tecnologia, Guaratinguetá.</b></a>
+    I enjoy <b>Software Developer, Front-end, Back-end and <img width="18px" src="https://img.icons8.com/color/48/000000/web-design.png"/>Web-Design</b>... <b><a href="">Spotify</a></b> and <b>Technology</b>, as well.<br/>
     I improve my developer skils every day.
     </em>
 </p>
+
+```Java
+String answer = JOptionPane.showInputDialog(frame, "Do you like me? [Y/N]");
+
+if(asnwer.equals("Y")){
+  System.out.println("Thanks, you're welcome");
+}
+else{
+  System.out.println("Talk to me!");
+}
+```
 
 ## Stats
 
